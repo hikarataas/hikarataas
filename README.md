@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Swift<br>💬 Ask me about HTML/CSS<br>⚡ Fun fact i'm a ex chef
+🌱 I’m currently learning Swift<br>💬 Ask me about HTML5/CSS<br>⚡ Fun fact i'm an ex chef
 
 
 ## 🌐 Socials:
