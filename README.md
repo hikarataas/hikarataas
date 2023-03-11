@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Solana Development<br>🌱 I’m currently learning iOS and Web3<br>⚡ Fun fact I'm an ex chef
+🔭 I’m currently working on Swift and SwiftUI <br>🌱 I’m currently learning Blockchain and Web3 <br>⚡ Fun fact I'm an ex chef
 
 
 ## 🌐 Socials:
