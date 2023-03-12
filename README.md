@@ -36,15 +36,11 @@
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
-  
-</div>
+
 
 </td><td valign="top" width="33%">
 
-<div align="center">  
-  
-</div>
+
 
 </td></tr></table>  
 
