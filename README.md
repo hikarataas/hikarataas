@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [medium.com/@karataashilal](medium.com/@karataashilal)
 
-- 💬 Ask me about **HTML, CSS, BootStrap**
+- 💬 Ask me about **Swift, SwiftUI**
 
 - 📫 How to reach me **karataas.hilal@gmail.com**
 
