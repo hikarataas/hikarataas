@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hikarataas&label=Profile%20views&color=0e75b6&style=flat" alt="hikarataas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hikarataas" alt="hikarataas" /></a> </p>
-
 - 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [github.com/hikarataas](github.com/hikarataas)
